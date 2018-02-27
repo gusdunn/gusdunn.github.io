@@ -1,30 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gus Dunn</title>
+    <title>Gus Dunn on Gus Dunn</title>
     <link>http://www.gusdunn.com/</link>
-    <description>Recent content on Gus Dunn</description>
+    <description>Recent content in Gus Dunn on Gus Dunn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Gus Dunn; some rights reserved.</copyright>
-    <lastBuildDate>Sun, 31 May 2015 11:01:32 -0400</lastBuildDate>
-    <atom:link href="http://www.gusdunn.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About me</title>
-      <link>http://www.gusdunn.com/content/services/about/about/</link>
-      <pubDate>Sun, 31 May 2015 11:01:32 -0400</pubDate>
+      <title>Hello: blog</title>
+      <link>http://www.gusdunn.com/post/hello_world/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://www.gusdunn.com/content/services/about/about/</guid>
-      <description>&lt;p&gt;My name is Augustine Dunn (Gus).
-I am currently a Postdoctoral Associate in the Ecology and Evolutionary Biology Department at Yale University in New Haven, Connecticut USA.&lt;/p&gt;
+      <guid>http://www.gusdunn.com/post/hello_world/</guid>
+      <description>
 
-&lt;p&gt;I specialize in analyzing biological data using computational approaches, especially high-throughput sequencing data including RNA-seq and ddRAD-seq.
-This site is still being developed.&lt;/p&gt;
+&lt;h2 id=&#34;greetings&#34;&gt;Greetings&lt;/h2&gt;
 
-&lt;p&gt;If you would like to contact me or read more, check out the contact buttons near the top and bottom of the page!&lt;/p&gt;
+&lt;p&gt;I plan to start blogging through this domain from now on.
+Generally, I expect to focus on things that would have helped &amp;lsquo;past Gus&amp;rsquo; from about a month ago.
+Things like how I finally managed to solve an annoying python bug or analysis problem.
+From time to time, I also want to highlight some of the research projects that I contribute to.&lt;/p&gt;
 
-&lt;p&gt;Gus&lt;/p&gt;
+&lt;p&gt;All in all, it remains to be seen exactly how this will shape up.
+But I am excited to have a bit of an active online writing presence again.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Table Enforcer</title>
+      <link>http://www.gusdunn.com/project/table-enforcer/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.gusdunn.com/project/table-enforcer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://www.gusdunn.com/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.gusdunn.com/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>http://www.gusdunn.com/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gusdunn.com/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>http://www.gusdunn.com/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.gusdunn.com/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
