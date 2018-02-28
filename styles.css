@@ -375,7 +375,7 @@ a[data-fancybox] img {
 }
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 4rem;
   margin-top: 0;
   line-height: 1;
 }
@@ -388,7 +388,7 @@ a[data-fancybox] img {
 .hero-overlay .hero-title,
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
-  color: #fff;
+  color: #0095EB;
   text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }
 
