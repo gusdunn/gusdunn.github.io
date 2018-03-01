@@ -8,26 +8,18 @@
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Gus Dunn; some rights reserved.</copyright>
     <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.gusdunn.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hello: blog</title>
-      <link>http://www.gusdunn.com/post/hello_world/</link>
+      <link>http://www.gusdunn.com/blog/2018/02/hello-blog/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://www.gusdunn.com/post/hello_world/</guid>
-      <description>
-
-&lt;h2 id=&#34;greetings&#34;&gt;Greetings&lt;/h2&gt;
-
-&lt;p&gt;I plan to start blogging through this domain from now on.
-Generally, I expect to focus on things that would have helped &amp;lsquo;past Gus&amp;rsquo; from about a month ago.
-Things like how I finally managed to solve an annoying python bug or analysis problem.
-From time to time, I also want to highlight some of the research projects that I contribute to.&lt;/p&gt;
-
-&lt;p&gt;All in all, it remains to be seen exactly how this will shape up.
-But I am excited to have a bit of an active online writing presence again.&lt;/p&gt;
-</description>
+      <guid>http://www.gusdunn.com/blog/2018/02/hello-blog/</guid>
+      <description>Greetings I plan to start blogging through this domain from now on. Generally, I expect to focus on things that would have helped &amp;lsquo;past Gus&amp;rsquo; from about a month ago. Things like how I finally managed to solve an annoying python bug or analysis problem. From time to time, I also want to highlight some of the research projects that I contribute to.
+All in all, it remains to be seen exactly how this will shape up.</description>
     </item>
     
   </channel>
