@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Gus Dunn</title>
+    <link>http://www.gusdunn.com/tags/misc/</link>
+    <description>Recent content in Misc on Gus Dunn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015, Gus Dunn; some rights reserved.</copyright>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.gusdunn.com/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello: blog</title>
+      <link>http://www.gusdunn.com/blog/2018/02/hello-blog/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://www.gusdunn.com/blog/2018/02/hello-blog/</guid>
+      <description>Greetings I plan to start blogging through this domain from now on. Generally, I expect to focus on things that would have helped &amp;lsquo;past Gus&amp;rsquo; from about a month ago. Things like how I finally managed to solve an annoying python bug or analysis problem. From time to time, I also want to highlight some of the research projects that I contribute to.
+All in all, it remains to be seen exactly how this will shape up.</description>
+    </item>
+    
+  </channel>
+</rss>
