@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Jupyter-Lab FINALLY has a TOC extension</title>
+      <link>http://www.gusdunn.com/blog/2018/05/jupyter-lab-finally-has-a-toc-extension/</link>
+      <pubDate>Wed, 16 May 2018 09:55:00 -0400</pubDate>
+      
+      <guid>http://www.gusdunn.com/blog/2018/05/jupyter-lab-finally-has-a-toc-extension/</guid>
+      <description>
+
+&lt;h2 id=&#34;huzzah&#34;&gt;Huzzah!&lt;/h2&gt;
+
+&lt;p&gt;I can not overstate my appreciation to &lt;a href=&#34;https://github.com/ian-r-rose&#34; target=&#34;_blank&#34;&gt;Ian Rose&lt;/a&gt; for finally allowing me to switch to &lt;a href=&#34;https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906&#34; target=&#34;_blank&#34;&gt;JupyterLab&lt;/a&gt; as my primary interface to Jupyter Notebooks.
+I tried before but always returned to the old interface due to the fact that I heavily rely on headings to navigate my notebooks as I develop them.
+My notebooks are usually pretty long and complex so the lack of a &amp;ldquo;navigation&amp;rdquo; system really impedes my productivity.&lt;/p&gt;
+
+&lt;p&gt;But no longer, thanks to &lt;a href=&#34;https://github.com/ian-r-rose/jupyterlab-toc&#34; target=&#34;_blank&#34;&gt;jupyterlab-toc&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;To install the extension run the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;$ jupyter labextension install jupyterlab-toc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When you restart your jupyterlab server, you will have a new sidebar tab named &amp;ldquo;Contents&amp;rdquo; which will open what you see below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.gusdunn.com/img/posts/jupyterlab-toc-example.png&#34; alt=&#34;toc&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello: blog</title>
       <link>http://www.gusdunn.com/blog/2018/02/hello-blog/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
@@ -37,36 +64,6 @@ But I am excited to have a bit of an active online writing presence again.&lt;/p
       
       <guid>http://www.gusdunn.com/project/table-enforcer/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>http://www.gusdunn.com/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>http://www.gusdunn.com/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://www.gusdunn.com/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.gusdunn.com/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://www.gusdunn.com/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.gusdunn.com/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

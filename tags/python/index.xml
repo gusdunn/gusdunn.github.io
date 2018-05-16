@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015, Gus Dunn; some rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 16 May 2018 09:55:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.gusdunn.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jupyter-Lab FINALLY has a TOC extension</title>
+      <link>http://www.gusdunn.com/blog/2018/05/jupyter-lab-finally-has-a-toc-extension/</link>
+      <pubDate>Wed, 16 May 2018 09:55:00 -0400</pubDate>
+      
+      <guid>http://www.gusdunn.com/blog/2018/05/jupyter-lab-finally-has-a-toc-extension/</guid>
+      <description>Huzzah! I can not overstate my appreciation to Ian Rose for finally allowing me to switch to JupyterLab as my primary interface to Jupyter Notebooks. I tried before but always returned to the old interface due to the fact that I heavily rely on headings to navigate my notebooks as I develop them. My notebooks are usually pretty long and complex so the lack of a &amp;ldquo;navigation&amp;rdquo; system really impedes my productivity.</description>
+    </item>
     
     <item>
       <title>Table Enforcer</title>
